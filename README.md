@@ -1,4 +1,4 @@
-𝐅𝐋𝐄𝐗 𝐀𝐈 MULTI DEVICE
+𝐅𝐋𝐄𝐗 𝐀𝐈 WHATSAPP BOT 
 
 <div align="center"><img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>✴️ HELLO THERE, THIS IS 𝐅𝐋𝐄𝐗 𝐀𝐈
@@ -38,7 +38,9 @@
   <p>One-click Heroku deployment</p>
 </div>
 
-<p> one_click Railway deployment</p>
+[![DEPLOY ON RENDER](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=Https://GitHub.com/allan-davincs/flex-ai)
+
+<p> one_click Render deployment</p>
 </div>
 ---
 
