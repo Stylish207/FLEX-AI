@@ -7,10 +7,10 @@ const axios = require('axios')
 cmd({
     pattern: "davincs",
     alias: ["fullhelp","fullmenu"],
-    use: '.flex',
+    use: '.davincs',
     desc: "Show all bot commands",
     category: "menu",
-    react: "📜",
+    react: "🫂",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -20,7 +20,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 👑 *Owner :* ${config.OWNER_NAME}
 ┃◈┃• ⚙️ *Prefix :* [${config.PREFIX}]
 ┃◈┃• 🌐 *Platform :* LINUX
-┃◈┃• 📦 *Version :* 4.0.0 Pro
+┃◈┃• 📦 *Connect :* Social Media 
 ┃◈┃• ⏱️ *Runtime :* ${runtime(process.uptime())}
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url:'https://files.catbox.moe/a44m93.jpg' },
+                image: { url:'https://files.catbox.moe/pt3z2w.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -73,8 +73,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/u8wetv.mp3' },
-            mimetype: 'audio/mp4',
+            audio: { url: 'https://files.catbox.moe/mi0sn6.mp3' },
+            mimetype: 'audio/mp3',
             ptt: true
         }, { quoted: mek });
         
