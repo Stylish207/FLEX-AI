@@ -10,7 +10,7 @@ cmd({
     use: '.help',
     desc: "Show all bot commands",
     category: "menu",
-    react: "📜",
+    react: "🤟",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -117,12 +117,13 @@ Logo Menu
 
 
 ---
-
+*more information visit site*
+www.flex-ai.site
+______________________
 🔥 *FLEX YOUR WORLD*🔥
 "With FLEX-AI, you’re not just using commands — you’re unlocking creativity, speed, and fun.
 Stay FLEXing, stay winning, and remember… when it’s FLEX, it’s always NEXT!" 🚀
 
-> HOPE IS PARTY OF FLEX
 > ${config.DESCRIPTION}`;
 
         await conn.sendMessage(
