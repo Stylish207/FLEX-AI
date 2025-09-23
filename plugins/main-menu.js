@@ -155,7 +155,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 │➽ menu  
 │➽ menu2  
 │➽ vv  
-│➽ listcmd  
+│➽ davincs 
 │➽ allmenu  
 │➽ repo  
 │➽ block  
