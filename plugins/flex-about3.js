@@ -108,6 +108,10 @@ Logo Menu
 
 .calculate 12*45 → Instant math answer
 
+*more information visit site*
+www.flex-ai.site
+______________________
+
 🌟 *WORLD SAY'S*🌟
 FLEX-AI gives you the edge — fast, smart, and playful.
 Rule your chats, create your designs, and never miss a beat… that’s the power of FLEX!" ✨
